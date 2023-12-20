@@ -1,8 +1,7 @@
 function addition(a, b) {
-    var sum = 0;
+    let sum = 0;
 
     sum = a + b;
-
     return sum;
 }
 
