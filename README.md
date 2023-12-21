@@ -1,2 +1,2 @@
-# s-code-rank-challenges
+# s-hackerrank-challenges
 Solving coding challenges
