@@ -1,2 +1,2 @@
 # s-code-rank-challenges
-Solving javascript coding challenges
+Solving coding challenges
