@@ -4,11 +4,6 @@
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 
-const [x1, y1] = lines.shift();
+const distancia = lines.shift();
 
-const cat1 = (x2 - x1) ** 2;
-const cat2 = (y2 - y1) ** 2;
-
-const distancia = Math.sqrt(cat1 + cat2);
-
-console.log(distancia.toFixed(4));
+console.log(distancia*2 + " minutos");
